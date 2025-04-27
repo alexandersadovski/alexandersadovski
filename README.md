@@ -16,15 +16,15 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" height="40" alt="css3 badge" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge" height="40" alt="django badge" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge" height="40" alt="nodejs badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge" height="40" alt="postgresql badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge" height="40" alt="git badge" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" height="40" alt="github badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" height="40" alt="docker badge" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge" height="40" alt="terraform badge" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge" height="40" alt="jenkins badge" />
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge" height="40" alt="azure badge" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge" height="40" alt="pycharm badge" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge" height="40" alt="vscode badge" />
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge" height="40" alt="visualstudio badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge" height="40" alt="postgresql badge" />
 </div>
 
 ---
